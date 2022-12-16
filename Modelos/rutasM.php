@@ -4,7 +4,7 @@ class Modelo{
         if( $rutas == 'ingreso' ||
             $rutas == 'admin' || 
             $rutas == 'registrar' || 
-            
+            $rutas == 'recuperar' || 
             $rutas == 'menu' ||
             $rutas == 'salir'
             )

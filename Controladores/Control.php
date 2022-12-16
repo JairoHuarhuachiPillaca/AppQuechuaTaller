@@ -73,6 +73,11 @@ class adminC{
         
     }
 
+    public function RecuperarC(){
+        $cbd = ConexionBD::cBD();
+        
+    }
+
     public function MostrarDatosC(){
         $tablaBD = 'usuarios';
         $respuesta = AdminM::MostrarDatosM($tablaBD );

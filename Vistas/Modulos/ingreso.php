@@ -44,7 +44,7 @@ $ingreso->inicioC()
                                                                              						                          
                                         <input  style="font-size: 1vw;" type="submit"   class="btn btn-primary" value="Inisiar sesion" name="log">
                                      <a  style="font-size: 1vw;" class="btn btn-primary"  href="index.php?ruta=registrar" type= "submit" name="registrar">Registrarse</a>
-                                     <a  style="font-size: 1vw;" class="btn btn-primary"  href="index.php?ruta=registrar" type= "submit" name="registrar">Recuperar contraseña</a>
+                                     <a  style="font-size: 1vw;" class="btn btn-primary"  href="index.php?ruta=recuperar" type= "submit" name="recuperar">Recuperar contraseña</a>
                                 </form>  
                                 </div>
                         </div>                                                  
