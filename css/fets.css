@@ -1,0 +1,44 @@
+
+
+.post,
+.createpost {
+    background-color: white;
+    box-shadow: 0 0 5px #4267b2;
+    width: 500px;
+	height:226px;
+    padding: 10px 16px;
+   
+}
+.createpostbuttons {
+    width: 100%;
+    margin: auto;
+    overflow: auto;
+}
+
+.createpostbuttons img {
+    display: inline-block;
+    width: 12%;
+    height: auto;
+    margin-bottom: 0;
+}
+
+.createpostbuttons label {
+    cursor: pointer;
+}
+
+.createpostbuttons input[type="file"] {
+    display: none;
+}
+
+.createpostbuttons input[type=submit] {
+    width: 86%;
+    float: right;
+    background-color: #4267b2;
+}
+
+.createpostbuttons input[type=submit]:hover {
+    background-color: #23385f;
+}
+
+
+  
