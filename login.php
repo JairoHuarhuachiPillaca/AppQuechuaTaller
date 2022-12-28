@@ -150,11 +150,11 @@ body {
                                 <form role="form-control"  method="post" >                                    
                                         <div class="form-group input-group">
                                             <span class="input-group-addon"><i class="fa fa-user" aria-hidden="true"></i></span>
-                                            <input type="text" class="form-control" placeholder="Gmail@Example.com " name="correo"  required/>
+                                            <input type="text" class="form-control" placeholder="Gmail@Example.com " name="correo"  />
                                         </div>
 									    <div class="form-group input-group">
                                             <span class="input-group-addon"><i class="fa fa-lock"  ></i></span>
-                                            <input ID="txtPassword" type="password" class="form-control"  placeholder="Password"   name="contra"  required/>
+                                            <input ID="txtPassword" type="password" class="form-control"  placeholder="Password"   name="contra"  />
                                             
                                             <span class="input-group-btn">
                                                 <div class="input-group-append">
