@@ -78,6 +78,7 @@
     <link href="css/botts.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="css/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/portada.css">
 <style >
     @font-face {
   font-family: Poppins;
@@ -131,7 +132,7 @@ body {
 </head>
 <body >
     <div class="container-portada">
-    <div class="capa-gradient"></div>
+    
     <div class="container my-5 d-flex justify-content-center" >
                     <div class="col-sm-6" >
                         <div  class="form" style="background-color:#D476FA ;box-shadow: 7px 10px #ACB6B7;opacity: 0.91 ;  box-sizing: border-box;border-radius: 10px; padding: 2px 1px 0 0 ; top: 50%;  left: 50%;margin-top:1% ;padding :25px">                        
@@ -164,12 +165,15 @@ body {
                                         </div> 
                                         <button style="font-size: 1vw;" class="btn btn-primary"  type= "submit" name="login">Iniciar sesión</button>                                     						                          
                                         <button style="font-size: 1vw;" class="btn btn-primary"  type= "submit" name="registrar">Registrarse</button>  
-                                        <button style="font-size: 1vw;" class="btn btn-primary"  type= "submit" name="recuperar">Recuperar</button>  
+                                        <br>
+                                        <a style="font-size: 1vw;color:#FFFFFF ;" href="recuperar.php" type="submit" value=>Olvidaste tu contraseña?</a>  
                                     
                                 </form>  
                                 </div>
                         </div>    
             </div>
+            </div>                                              
+   
     </div>                                              
     </div>                     
 </div>
